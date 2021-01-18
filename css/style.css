@@ -1,0 +1,32 @@
+.error{
+    color: red;
+}
+.footer_area {
+    background: #337AB7;
+    color:#fff;
+    padding: 20px 0px;
+    margin-top: 20px;
+}
+.footer_area p{
+    margin: 0;
+}
+.content{
+    min-height: 548px;
+}
+div#data_length {
+    float: left;
+}
+.user_edit_field{
+    width: 100%;
+}
+.center{
+    text-align: center;
+}
+nav.navbar {
+    background: #337AB7;
+    /* color: white !important; */
+}
+
+.menubar_text {
+    color: white;
+}
